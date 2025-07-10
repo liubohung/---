@@ -22,11 +22,9 @@
 pip install -r requirements.txt
 ```
 
-2. 確保已安裝 [Google Chrome](https://www.google.com/chrome/) 瀏覽器與對應版本的 [ChromeDriver](https://sites.google.com/chromium.org/driver/)。 [For versions 115 and newer](<https://googlechromelabs.github.io/chrome-for-testing/>)
+2. 確保已安裝 [Google Chrome](https://www.google.com/chrome/) 瀏覽器與對應版本的 [ChromeDriver](https://sites.google.com/chromium.org/driver/)。 對於Chrome在115以上的版本，請安裝[For versions 115 and newer](<https://googlechromelabs.github.io/chrome-for-testing/>)
 
-3. 確保已安裝 Google Chrome 瀏覽器與對應版本的 ChromeDriver，並可透過環境變數存取。
-
-執行主程式：
+3. 執行主程式：
 
 ```bash
 python CEO_change.py
